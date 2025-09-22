@@ -71,4 +71,4 @@ client.connect()
 - ta (Technical Analysis library)
 
 ### Further
-Blog post: https://tingh.dev/2025/07/04/kraken-signal.html
+Blog post: https://tingh.dev/2025/07/04/kraken-crypto-trading-signal-client.html
